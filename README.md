@@ -12,5 +12,5 @@ Version 1
  ![3](https://user-images.githubusercontent.com/54207353/129261628-b40b59a5-c174-4d39-b228-4b2e84dc014c.PNG)
 
 
-          system chat like whattapp web
+          system chat like whatsapp web
  ![4](https://user-images.githubusercontent.com/54207353/129261771-e580e089-4381-402d-8f38-d4118cacdd31.PNG)
